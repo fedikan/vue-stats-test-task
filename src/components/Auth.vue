@@ -84,9 +84,8 @@ export default {
 .container{
     width: 280px;
     height: 280px;
-    border:1px solid black;
     position: absolute;
-    border-radius: 4%;
+    box-shadow: 0 0 10px 1px black;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
